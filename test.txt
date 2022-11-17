@@ -1,0 +1,3 @@
+Hi!
+This file is been Pushed from my College Computer to my Local Git Repo
+
